@@ -1,4 +1,4 @@
-# Giao-o-an-truc-tuyen
+# Giao-do-an-truc-tuyen
 Website giao đồ ăn trực tuyến (React, NodeJS, MySQL)
 1.	Giới thiệu
 Trong thời đại công nghệ số phát triển mạnh mẽ, nhu cầu đặt đồ ăn trực tuyến của người dùng ngày càng gia tăng nhờ sự tiện lợi, nhanh chóng và tiết kiệm thời gian. Thay vì phải đến trực tiếp nhà hàng hoặc quán ăn, khách hàng có thể dễ dàng lựa chọn món ăn, đặt hàng và thanh toán thông qua các nền tảng trực tuyến. Hệ thống cho phép khách hàng dễ dàng tìm kiếm, xem thông tin món ăn, đặt hàng và theo dõi trạng thái đơn hàng một cách thuận tiện. Đồng thời, website cũng hỗ trợ các nhà hàng quản lý thực đơn, cập nhật sản phẩm, xử lý đơn hàng và theo dõi doanh thu.

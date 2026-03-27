@@ -12,19 +12,22 @@ Trong thời đại công nghệ số phát triển mạnh mẽ, nhu cầu đặ
 -	Người giao hàng
 -	Quản trị viên
 4.	Chức năng chính
--	Khách hàng:  + Đăng kí, đăng nhập vào hệ thống
-                        + Xem và tìm kiếm sản phẩm theo mục
-                        + Thêm sản phẩm vào giỏ hàng và thanh toán
-                        + Quản lý đơn hàng và theo dõi trạng thái
-                        + Đánh giá sản phẩm
--	Người giao hàng:  + Chọn đơn giao
-                                + Xác nhận và vận chuyển
-                                + Xem thông tin đơn hàng
-                                + Liên hệ khách hàng
-                                + Xem lịch sử giao hàng
--	Quản trị viên:  + Quản lý sản phẩm, danh mục, người dùng
-                               + Hệ thống mã giảm giá
-                               + Thống kê, báo cáo
+-	Khách hàng:
+  + Đăng kí, đăng nhập vào hệ thống
+  + Xem và tìm kiếm sản phẩm theo mục
+  + Thêm sản phẩm vào giỏ hàng và thanh toán
+  + Quản lý đơn hàng và theo dõi trạng thái
+  + Đánh giá sản phẩm
+-	Người giao hàng:  
+  + Chọn đơn giao
+  + Xác nhận và vận chuyển
+  + Xem thông tin đơn hàng
+  + Liên hệ khách hàng
+  + Xem lịch sử giao hàng
+-	Quản trị viên:  
+  + Quản lý sản phẩm, danh mục, người dùng
+  + Hệ thống mã giảm giá
+  + Thống kê, báo cáo
 5.	Yêu cầu phi chức năng
 -	Giao diện hiện đại, sang trọng, phù hợp trong lĩnh vực ẩm thực
 -	Website reponsive (tương thích máy tính, điện thoại, tablet…)
